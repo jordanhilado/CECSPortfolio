@@ -1,0 +1,13 @@
+a = "Computer"
+b = "programming"
+c = "can"
+d = "be"
+e = "very"
+f = "fun"
+g = "if"
+h = "you"
+i = "have"
+j = "the"
+k = "right"
+l = "mentality."
+print(a, b, c, d, e, f, g, h, i, j, k, l)
